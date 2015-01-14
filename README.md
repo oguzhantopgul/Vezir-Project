@@ -33,6 +33,8 @@ Vezir contains the following tools
   <li>sqlitebrowser</li>
 </ul> 
 
+All the tools above are put in the <b>/home/veriz/ambar</b> directory. Most of them are added to PATH, so you can easily run by just typing the name of the application. 
+
 Keyboard Layout is TR (Turkish-Q)
 
-Any feedback is welcome.
+p.s. Any feedback is welcome.
