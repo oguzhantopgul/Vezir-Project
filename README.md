@@ -1,5 +1,5 @@
 # Vezir-Project
-Yet Another Linux Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis
+Yet Another Linux Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis. Main purpose of the Vezir is to provide up-to-date testing environment for mobile security researchers
 
 Vezir (vizier, chess queen in Turkish) is  based on Ubuntu 14.04 LTS and it is created with VMWare Fusion 6.0.4
 
@@ -33,5 +33,4 @@ Vezir contains the following tools
 
 Keyboard Layout is TR (Turkish-Q)
 
-
-
+Any feedback is welcome.
