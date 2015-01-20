@@ -18,6 +18,7 @@ Vezir contains the following tools
   <li>Android NDK</li>
   <li>libimobiledevice library</li>
   <li>BinaryCookieReader</li>
+  <li>Drozer</li>
   <li>JD-GUI</li>
   <li>Jadx</li>
   <li>dex2jar</li>
