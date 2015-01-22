@@ -33,7 +33,9 @@ Password: **vezir**
 - sqlite3
 - sqlitebrowser
 
-All the tools above are put in the <b>/home/vezir/ambar</b> directory. Most of them are added to **PATH**, so you can easily run by just typing the name of the application. Keyboard Layout is TR (Turkish-Q).
+All the tools above are put in the <b>/home/vezir/ambar</b> directory. Most of them are added to **PATH**, so you can easily run by just typing the name of the application. 
+
+Default keyboard Layout is TR (Turkish-Q), but you can change it to English(US) in the login screen if you are not using TR layout.
 
 ## Contributing
 p.s. Any feedback is welcome.
