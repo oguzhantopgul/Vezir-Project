@@ -6,7 +6,7 @@ Main purpose of the **Vezir** is to provide up-to-date testing environment for m
 
 **Update Status:** Recent update on 22 Jan 2015
 ## Download
-You can download **Vezir.ova** from the link: http://goo.gl/SqUwyh
+You can download **Vezir.ova** from the link: http://goo.gl/RcIdL4
 
 ## Credentials
 Username: **vezir**
