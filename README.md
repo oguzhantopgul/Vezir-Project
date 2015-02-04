@@ -35,6 +35,8 @@ Password: **vezir**
 - sqlite3
 - sqlitebrowser
 - AXMLPrinter2
+- Graphviz Dot
+- Doxygen
 
 All the tools above are put in the <b>/home/vezir/ambar</b> directory. Most of them are added to **PATH**, so you can easily run by just typing the name of the application. 
 
