@@ -4,9 +4,9 @@ Yet Another Linux Virtual Machine for Mobile Application Pentesting and Mobile M
 
 Main purpose of the **Vezir** is to provide up-to-date testing environment for mobile security researchers. **Vezir** (*vizier*, chess queen in Turkish) is  based on Ubuntu 14.04 LTS and it is created with VMWare Fusion 6.0.4.
 
-**Update Status:** Recent update on 22 Jan 2015
+**Update Status:** Recent update on 19 Feb 2015
 ## Download
-You can download **Vezir.ova** from the link: http://goo.gl/RcIdL4
+You can download **Vezir.ova** from the link: http://goo.gl/rxVHZo
 
 ## Credentials
 Username: **vezir**
@@ -37,6 +37,7 @@ Password: **vezir**
 - AXMLPrinter2
 - Graphviz Dot
 - Doxygen
+- Android Log Viewer
 
 All the tools above are put in the <b>/home/vezir/ambar</b> directory. Most of them are added to **PATH**, so you can easily run by just typing the name of the application. 
 
