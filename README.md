@@ -4,9 +4,9 @@ Yet Another Linux Virtual Machine for Mobile Application Pentesting and Mobile M
 
 Main purpose of the **Vezir** is to provide up-to-date testing environment for mobile security researchers. **Vezir** (*vizier*, chess queen in Turkish) is  based on Ubuntu 14.04 LTS and it is created with VMWare Fusion 6.0.4.
 
-**Update Status:** Recent update on 19 Feb 2015
+**Update Status:** Recent update on 17 Sep 2015
 ## Download
-You can download **Vezir.ova** from the link: http://goo.gl/rxVHZo
+You can download **Vezir.ova** from the link: http://goo.gl/OwJpAe
 
 ## Credentials
 Username: **vezir**
