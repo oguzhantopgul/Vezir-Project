@@ -15,6 +15,7 @@ Password: **vezir**
 ## Tools
 
 - Eclipse
+- Android Studio
 - Android SDK
 - Android NDK
 - libimobiledevice library
