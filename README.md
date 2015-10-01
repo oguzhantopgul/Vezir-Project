@@ -2,7 +2,17 @@
 
 Yet Another Linux Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis. 
 
-Main purpose of the **Vezir** is to provide up-to-date testing environment for mobile security researchers. **Vezir** (*vizier*, chess queen in Turkish) is  based on Ubuntu 14.04 LTS and it is created with VMWare Fusion 6.0.4.
+Main purpose of the **Vezir** is to provide up-to-date testing environment for mobile security researchers. **Vezir** (*vizier*, chess queen in Turkish) is  based on Ubuntu 14.04 LTS and it is created with VMWare Fusion 6.0.4. In order to minimize compatibility issues, Vezir virtual machine is set to use hardware version 8 and therefore it is compatible with
+- ESXi 5.0
+- ESXi 5.1
+- Fusion 4.0
+- Fusion 5.0
+- Fusion 6.0
+- Workstation 8.0
+- Workstation 9.0
+- Workstation 10.0
+
+virtualization environments
 
 **Update Status:** Recent update on 17 Sep 2015
 ## Download
