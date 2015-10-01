@@ -14,9 +14,9 @@ Main purpose of the **Vezir** is to provide up-to-date testing environment for m
 
 virtualization environments
 
-**Update Status:** Recent update on 17 Sep 2015
+**Update Status:** Recent update on 1 Oct 2015
 ## Download
-You can download **Vezir.ova** from the link: http://goo.gl/OwJpAe
+You can download **Vezir.ova** from the link: https://goo.gl/je52C6
 
 ## Credentials
 Username: **vezir**
