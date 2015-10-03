@@ -16,7 +16,7 @@ virtualization environments
 
 **Update Status:** Recent update on 1 Oct 2015
 ## Download
-You can download **Vezir.ova** from the link: https://goo.gl/je52C6
+You can download **Vezir.ova** from the link: UPDATING VEZIR, DOWNLOAD LINK WILL BE AVAILABLE SOON...
 
 ## Credentials
 Username: **vezir**
