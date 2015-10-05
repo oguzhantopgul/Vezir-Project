@@ -23,7 +23,7 @@ virtualization environments
 
 **Update Status:** Recent update on 3 Oct 2015
 ## Download
-You can download **Vezir.ova** from the link: UPDATING VEZIR, DOWNLOAD LINK WILL BE AVAILABLE SOON...
+You can download **Vezir.ova** from the link: https://goo.gl/yuieQf
 
 ## Credentials
 Username: **vezir**
