@@ -2,7 +2,7 @@
 
 Yet Another Linux Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis. 
 
-Main purpose of the **Vezir** is to provide up-to-date testing environment for mobile security researchers. **Vezir** (*vizier*, chess queen in Turkish) is  based on Ubuntu 14.04 LTS and it is created with VMWare Fusion 6.0.4. In order to minimize compatibility issues, Vezir virtual machine is set to use hardware version 8 and therefore it is compatible with
+Main purpose of the **Vezir** is to provide up-to-date testing environment for mobile security researchers. **Vezir** (*vizier*, chess queen in Turkish) is  based on Ubuntu and it is created with VMWare Fusion 6.0.4. In order to minimize compatibility issues, Vezir virtual machine is set to use hardware version 8 and therefore it is compatible with
 - ESXi 5.0
 - ESXi 5.1
 - Fusion 4.0
@@ -14,9 +14,18 @@ Main purpose of the **Vezir** is to provide up-to-date testing environment for m
 
 virtualization environments
 
-**Update Status:** Recent update on 3 Oct 2015
+Vezir 2.0 uses XFCE desktop environment (Xubuntu) and based on Ubuntu 15.04
+
+**Update Status:**  
+
+Vezir 2.0 is out (27 Oct 2015)
+
+Vezir 1.0 latest update on 3 Oct 2015
+
 ## Download
-You can download **Vezir.ova** from the link: https://goo.gl/yuieQf
+Download **Vezir 2.0** from the link: https://goo.gl/fw0u68
+
+Download **Vezir 1.0** older release from the link: https://goo.gl/yuieQf
 
 ## Credentials
 Username: **vezir**
@@ -27,7 +36,7 @@ Password: **vezir**
 - Eclipse
 - Android Studio
 - Android SDK
-- Android NDK
+- ~~Android NDK~~ (Intentionally removed in Vezir 2.0)
 - libimobiledevice library
 - BinaryCookieReader
 - androguard
@@ -36,7 +45,7 @@ Password: **vezir**
 - Jadx
 - dex2jar
 - Hopper
-- IDA Demo
+- ~~IDA Demo~~ (Intentionally removed in Vezir 2.0)
 - plutil
 - baksmali
 - apktool
