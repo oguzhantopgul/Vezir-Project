@@ -23,7 +23,7 @@ Vezir 2.0 latest update on 28 Oct 2015
 Vezir 1.0 latest update on 3 Oct 2015
 
 ## Download
-Download **Vezir 2.0** from the link: https://goo.gl/IixNS8
+Download **Vezir 2.0** from the link: https://goo.gl/vR6Zt2
 
 Download **Vezir 1.0** older release from the link: https://goo.gl/yuieQf
 
