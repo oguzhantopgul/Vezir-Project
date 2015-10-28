@@ -18,12 +18,12 @@ Vezir 2.0 uses XFCE desktop environment (Xubuntu) and based on Ubuntu 15.04
 
 **Update Status:**  
 
-Vezir 2.0 is out (27 Oct 2015)
+Vezir 2.0 latest update on 28 Oct 2015
 
 Vezir 1.0 latest update on 3 Oct 2015
 
 ## Download
-Download **Vezir 2.0** from the link: https://goo.gl/fw0u68
+Download **Vezir 2.0** from the link: https://goo.gl/IixNS8
 
 Download **Vezir 1.0** older release from the link: https://goo.gl/yuieQf
 
