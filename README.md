@@ -18,12 +18,12 @@ Vezir 2.0 uses XFCE desktop environment (Xubuntu) and based on Ubuntu 15.04
 
 **Update Status:**  
 
-Vezir 2.0 latest update on 28 Oct 2015
+Vezir 2.0 latest update on 2 Nov 2015
 
 Vezir 1.0 latest update on 3 Oct 2015
 
 ## Download
-Download **Vezir 2.0** from the link: https://goo.gl/vR6Zt2
+Download **Vezir 2.0** from the link: https://goo.gl/pQtn6c
 
 Download **Vezir 1.0** older release from the link: https://goo.gl/yuieQf
 
@@ -62,6 +62,8 @@ Password: **vezir**
 - Genymotion
 - Virtualbox
 - MFFA (Media Fuzzing Framework for Android)
+- Vulnerable Labs (SecurityCompass InsecureBank, OWASP GoatDroid, Pentesterlab SQLi)
+- Enjarify
 
 All the tools above are put in the <b>/home/vezir/ambar</b> directory. Most of them are added to **PATH**, so you can easily run by just typing the name of the application. 
 
