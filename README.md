@@ -1,3 +1,5 @@
+<p align="center"><img src="/media/VezirCrown.png" width="200"></p>
+
 # Vezir-Project
 
 Yet Another Linux Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis. 
@@ -69,6 +71,9 @@ Password: **vezir**
 All the tools above are put in the <b>/home/vezir/ambar</b> directory. Most of them are added to **PATH**, so you can easily run by just typing the name of the application. 
 
 Default keyboard layout is TR (Turkish-Q), but you can change it to English(US) in the login screen if you are not using TR layout.
+
+## Vezir Keep Calm Poster
+You can download Vezir Keep Calm poster from the media folder in the repository
 
 ## Contributing
 p.s. Any feedback is welcome.
