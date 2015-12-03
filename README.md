@@ -74,5 +74,7 @@ Default keyboard layout is TR (Turkish-Q), but you can change it to English(US) 
 ## Vezir Keep Calm Poster
 You can download Vezir Keep Calm poster from the media folder in the repository
 
+The crown logo of the Vezir Project is created by [PelFusion](http://www.pelfusion.com/35-new-free-long-shadow-christmas-icons/).
+
 ## Contributing
 p.s. Any feedback is welcome.
