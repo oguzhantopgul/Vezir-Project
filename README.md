@@ -66,6 +66,7 @@ Password: **vezir**
 - Vulnerable Labs (SecurityCompass InsecureBank, OWASP GoatDroid, Pentesterlab SQLi)
 - Enjarify
 - Apache HTTP server
+- BytecodeViewer - planned for future release (https://github.com/Konloch/bytecode-viewer)
 
 All the tools above are put in the <b>/home/vezir/ambar</b> directory. Most of them are added to **PATH**, so you can easily run by just typing the name of the application. 
 
