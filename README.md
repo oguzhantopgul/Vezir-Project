@@ -22,12 +22,12 @@ Vezir 2.0 uses XFCE desktop environment (Xubuntu) and based on Ubuntu 15.04
 
 **Update Status:**  
 
-Vezir 2.0 latest version is **Vezir 2.0.3** and updated on 21 Apr 2016
+Vezir 2.0 latest version is **Vezir 2.1** and updated on 21 Apr 2016
 
 Vezir 1.0 latest update on 3 Oct 2015
 
 ## Download
-Download **Vezir 2.0.3** from the link: https://goo.gl/xcUYb1
+Download **Vezir 2.1** from the link: https://goo.gl/xcUYb1
 
 Download **Vezir 1.0** older release from the link: https://goo.gl/yuieQf
 
@@ -38,7 +38,7 @@ Password: **vzr**
 ## Tools
 
 - Eclipse
-- Android Studio (will be available in Vezir 2.0.4)
+- Android Studio (will be available in Vezir 2.2)
 - Android SDK
 - ~~Android NDK~~ (Intentionally removed in Vezir 2.0)
 - libimobiledevice library
@@ -69,10 +69,10 @@ Password: **vzr**
 - Vulnerable Labs (SecurityCompass InsecureBank, OWASP GoatDroid, Pentesterlab SQLi)
 - Enjarify
 - Apache HTTP server
-- BytecodeViewer (added in recent release 2.0.3)
-- androwarn (added in recent release 2.0.3)
-- Androbugs Framework (added in recent release 2.0.3)
-- idb (added in recent release 2.0.3)
+- BytecodeViewer (added in recent release 2.1)
+- androwarn (added in recent release 2.1)
+- Androbugs Framework (added in recent release 2.1)
+- idb (added in recent release 2.1)
 
 All the tools above are put in the <b>/home/vezir/ambar</b> directory. Most of them are added to **PATH**, so you can easily run by just typing the name of the application. 
 
